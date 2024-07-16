@@ -327,7 +327,6 @@ Endpoint: `/api/nutrition?ingr=10%20cup%20of%20corn&nutrition_type=cooking`
         "quantity": 47.415,
         "unit": "g"
       }
-      // Additional nutrients can be added here
     },
     "ingredients": [
       {
@@ -346,5 +345,28 @@ Endpoint: `/api/nutrition?ingr=10%20cup%20of%20corn&nutrition_type=cooking`
   }
 }
 ```
+## Testing
 
+To run the tests, execute the following command:
+```bash
+bundle exec rspec
+```
+
+## Contributing
+
+Contributions are warmly welcomed! Enhancements and bug fixes are encouraged. Please follow these steps to contribute:
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/enhancement`.
+3. Make your changes.
+4. Commit your changes: `git commit -am 'Add feature/enhancement'`.
+5. Push to the branch: `git push origin feature/enhancement`.
+6. Open a new Pull Request.
+
+## Acknowledgments
+
+Thank you to the dedicated contributors whose efforts have been pivotal in shaping and improving the API Wrapper. Your contributions are invaluable.
+
+## License
+
+This project is intended for personal and educational use only. All content, including designs and concepts, is the property of its creators.
 
