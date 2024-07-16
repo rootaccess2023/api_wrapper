@@ -71,13 +71,13 @@ This project is ad-free and free to use. If you enjoy the service and want to su
 
 #### Get Cat Facts
 
-Endpoint: `/api/v1/cats/facts`
+Endpoint: `/api/facts`
 
 ### Free Dictionary API
 
 #### Fetch Word Definition
 
-Endpoint: `/api/v1/dictionary/define?word={word}`
+Endpoint: `/api/dictionary?word={word}`
 
 ### Nutrition Analysis API
 
