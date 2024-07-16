@@ -67,7 +67,7 @@ This project is ad-free and free to use. If you enjoy the service and want to su
 
 ## API Usage
 
-### Cats API
+### [Cats API](https://alexwohlbruck.github.io/cat-facts/)
 
 #### Get Cat Facts
 
@@ -135,7 +135,7 @@ Endpoint: `/api/facts`
 
 ### Free Dictionary API
 
-#### Fetch Word Definition
+#### [Fetch Word Definition](https://dictionaryapi.dev/)
 
 Endpoint: `/api/dictionary?word={word}`
 
@@ -247,7 +247,7 @@ To look up the word "code":
 }
 ```
 
-### Nutrition Analysis API
+### [Nutrition Analysis API](https://developer.edamam.com/edamam-docs-nutrition-api)
 
 #### Analyze Food Item
 
