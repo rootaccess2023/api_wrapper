@@ -39,7 +39,7 @@ This project is ad-free and free to use. If you enjoy the service and want to su
     ```
 2. **Navigate to the project directory:**
     ```bash
-    cd api-wrapper
+    cd api_wrapper
     ```
 3. **Install dependencies:**
     ```bash
