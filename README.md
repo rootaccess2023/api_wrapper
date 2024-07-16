@@ -79,6 +79,12 @@ Endpoint: `/api/facts`
 
 Endpoint: `/api/dictionary?word={word}`
 
+#### Query Parameters
+
+- `word` **(required)**: The word you want to look up.
+
+### URL Format
+
 ### Nutrition Analysis API
 
 #### Analyze Food Item
