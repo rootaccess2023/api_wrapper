@@ -133,9 +133,9 @@ Endpoint: `/api/facts`
 }
 ```
 
-### Free Dictionary API
+### [Free Dictionary API](https://dictionaryapi.dev/)
 
-#### [Fetch Word Definition](https://dictionaryapi.dev/)
+#### Fetch Word Definition
 
 Endpoint: `/api/dictionary?word={word}`
 
