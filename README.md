@@ -7,7 +7,7 @@ Welcome to the API Wrapper repository! This project provides a unified interface
 ### Features
 
 - **Cats API:**
-  - Get a cat facts.
+  - Get cat facts.
 
 - **Free Dictionary API:**
   - Fetch word definitions.
@@ -64,3 +64,25 @@ This project is ad-free and free to use. If you enjoy the service and want to su
     rails server
     ```
 8. **Open your web browser and visit `http://localhost:3000` to view the application.**
+
+## API Usage
+
+### Cats API
+
+#### Get Cat Facts
+
+Endpoint: `/api/v1/cats/facts`
+
+### Free Dictionary API
+
+#### Fetch Word Definition
+
+Endpoint: `/api/v1/dictionary/define?word={word}`
+
+### Nutrition Analysis API
+
+#### Analyze Food Item
+
+Endpoint: `/api/nutrition?ingr={ingredient}&nutrition_type={nutrition_type}`
+
+
