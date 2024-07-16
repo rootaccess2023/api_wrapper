@@ -67,7 +67,8 @@ This project is ad-free and free to use. If you enjoy the service and want to su
 
 ## API Usage
 
-### [Cats API](https://alexwohlbruck.github.io/cat-facts/)
+### [Cats API](https://alexwohlbruck.github.io/cat-facts/) 
+<p> ^ Click to read documentation</p>
 
 #### Get Cat Facts
 
